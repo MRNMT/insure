@@ -72,6 +72,8 @@ height: 600px;
 }
 
 .cta {
+  display: flex;
+  flex-direction: column;
   background: #101235;
   color: #fff;
   text-align: center;
@@ -81,6 +83,9 @@ height: 600px;
 .btn-light {
   background: #fff;
   color: #000;
+  margin-left: 1500px;
+  margin-top: -50px;
+  width: 200px;
 }
 
 .footer-content {
@@ -108,8 +113,8 @@ height: 600px;
   height: 50px;
 }
 .footer {
-  background: #e0dde0e8;
-  color: #fff;
+  background: #2b141400;
+  color: #b69e9e;
 }
 .footer-logo
 {
@@ -118,4 +123,43 @@ height: 600px;
 .desk{
 margin-left: 600px;
 margin-bottom: -500px;
+}
+.social-icons1 {
+  display: flex;
+  gap: 1rem;
+  margin-left: 1700px;
+  margin-top: -50px;
+}
+.work {
+  text-align: center;
+  color: #fff;
+
+  font-size: 30px;
+  margin-right: 1300px;
+}
+.intro-imaged {
+  width: 400px;
+  height: 500px;
+  margin-left: 1200px;
+  margin-top: -400px;
+}
+.hero-text
+{
+  width: 500px;
+}
+.intro-imagel{
+height: 300px;
+  
+  margin-top: -250px;
+}
+.image3{
+height: 100px;
+    margin-left: 1200px;
+  margin-top: -800px;
+  width:100px;
+}.image4{
+height: 100px;
+    margin-left: 1200px;
+  margin-top: -800px;
+  width:100px;
 }
